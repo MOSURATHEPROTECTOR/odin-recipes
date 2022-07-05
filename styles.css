@@ -5,7 +5,17 @@ H1 {
     Color: rgb(58, 58, 58);
     background-color: ghostwhite;
     text-align: center;
+    font-family: Helvetica, sans-serif;
 }
+
 img {
-    align-items: center;
+    height: auto;
+    width: 500px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
